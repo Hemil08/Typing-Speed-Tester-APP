@@ -1,0 +1,17 @@
+.char {
+    font-size: 18px;
+    margin: 0 1px;
+}
+
+.active{
+    border-bottom: 3px solid blue;
+}
+
+.correct{
+    color: darkgreen;
+}
+
+.wrong{
+    color: darkred;
+    background-color: pink;
+}
